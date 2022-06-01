@@ -1,0 +1,9 @@
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.d-block {
+  width:100%;
+  justify-content: center;  
+}
